@@ -24,6 +24,8 @@ The data contained information about each building's number of floors before the
 ## Recommendations
 
 ## Dashboard
+The Tableau Public dashboard can be found [here](https://public.tableau.com/app/profile/owen.xu/viz/DashboardTemplate_17238271781070/EarthquakeDashboard).
+
 ![Dashboard](dashboard.png)
 
 ## Presentation
