@@ -53,7 +53,5 @@ The Tableau Public dashboard can be found [here](https://public.tableau.com/app/
 
 ![Dashboard](dashboard.png)
 
-## Presentation
-
 ## Citations
 DrivenData. (2019). Richter's Predictor: Modeling Earthquake Damage. Retrieved [Month Day Year] from https://www.drivendata.org/competitions/57/nepal-earthquake.
