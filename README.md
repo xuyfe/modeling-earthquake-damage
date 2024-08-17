@@ -8,8 +8,7 @@ As of July 28, 2024, my current rank is #1582 out of 7657 participants that join
 2. [Insights](#insights)
 3. [Recommendations](#recommendations)
 4. [Tableau Dashboard](#dashboard)
-5. [PowerPoint Presentation](#presentation)
-6. [Citations](#citations)
+5. [Citations](#citations)
 
 ## Data Characteristics
 The data contained information about each building's number of floors before the earthquake, the number of families per building, whether the building had any secondary uses (such as police station, etc), and other information related to the type of foundation, configuration, and construction data.
